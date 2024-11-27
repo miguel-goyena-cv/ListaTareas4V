@@ -65,7 +65,7 @@ public class MenuPrincipal {
 			default:
 				System.out.println("Opción inválida. Por favor, selecciona una opción válida.");
 			}
-		} while (opcionElegidaUsuario != 3);
+		} while (opcionElegidaUsuario != 4);
 
 		scanner.close();
 
